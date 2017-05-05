@@ -4,14 +4,8 @@
 cd
 wget https://raw.githubusercontent.com/zulizar/premium/master/almenu.sh && chmod +x almenu.sh && ./almenu.sh
 ```
-# debian7
-```
 
-cd
-wget https://raw.githubusercontent.com/zulizar/premium/master/debian7.sh && chmod +x debian7.sh && ./debian7.sh
-
-```
-
+[\
 # Debian7x32
 ```
 cd
