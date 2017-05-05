@@ -12,7 +12,7 @@ wget https://raw.githubusercontent.com/zulizar/premium/master/debian7.sh && chmo
 
 ```
 
-# Debian7x64
+# Debian7x32
 ```
 cd
 wget https://raw.githubusercontent.com/zulizar/premium/master/debian7x64.sh && chmod +x debian7x64.sh && ./debian7x64.sh
